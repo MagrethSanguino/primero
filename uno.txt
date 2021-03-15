@@ -7,3 +7,6 @@ Agregando sección de blog
 hola mundo
 
 cambio hecho para las noticias
+
+
+cambio desde la rama master
