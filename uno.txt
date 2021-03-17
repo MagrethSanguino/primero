@@ -1,12 +1,12 @@
-código de la característica de login
+cÃ³digo de la caracterÃ­stica de login
 
 bloque de codigo para implementar la busqueda....
 
-Agregando sección de blog
+Agregando secciÃ³n de blog
 
 hola mundo
 
 cambio hecho para las noticias
 
-
+Ete cambio es hecho desde GitHub
 cambio desde la rama master
